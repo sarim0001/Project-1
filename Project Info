@@ -1,3 +1,69 @@
-java mini project
 
-Banking System
+Bank Management System
+
+
+
+Overview
+
+Welcome to the Bank Management System project! This Java-based application is my first mini project and showcases fundamental Java programming skills.
+
+Features
+
+Account Creation: Create new bank accounts easily.
+
+Deposit/Withdrawal: Add or remove funds from your account.
+
+Balance Inquiry: Check your current account balance.
+
+Account Management: Update and manage your account details.
+
+
+Getting Started
+
+Prerequisites
+
+Java Development Kit (JDK)
+
+A Java IDE or Text Editor
+
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/Bank-Management-System.git
+
+
+2. Navigate to the project directory:
+
+cd Bank-Management-System
+
+
+3. Compile the Java files:
+
+javac *.java
+
+
+4. Run the application:
+
+java Main
+
+
+
+Usage
+
+Just follow the on-screen prompts to create an account, manage funds, and check your balance.
+
+Contributing
+
+I welcome any suggestions or improvements! Feel free to open an issue or submit a pull request.
+
+Acknowledgments
+
+Thanks for checking out my project! Inspired by basic banking systems to enhance my Java skills.
+
+
+---
+
+Replace URL-to-your-image with the actual URL of your image. If you need help finding or uploading an image, let me know!
+
