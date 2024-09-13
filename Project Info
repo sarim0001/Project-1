@@ -1,69 +1,61 @@
+# Bank Management System
 
-Bank Management System
+## Overview
 
+Welcome to the Bank Management System project! This Java-based application simulates basic banking operations, including account creation, balance management, and fund transfers. It showcases fundamental Java programming skills and object-oriented principles.
 
+## Features
 
-Overview
+- **Add Account:** Create a new bank account with details like branch, holder name, account number, type, and balance.
+- **Add Balance:** Deposit funds into an existing account.
+- **Transfer Funds:** Transfer funds between two existing accounts.
+- **Display Account Info:** View details of an account by its number.
 
-Welcome to the Bank Management System project! This Java-based application is my first mini project and showcases fundamental Java programming skills.
+## Getting Started
 
-Features
+### Prerequisites
 
-Account Creation: Create new bank accounts easily.
+- Java Development Kit (JDK)
+- A Java IDE or Text Editor
 
-Deposit/Withdrawal: Add or remove funds from your account.
+### Installation
 
-Balance Inquiry: Check your current account balance.
+1. **Clone the repository:**
 
-Account Management: Update and manage your account details.
+    ```bash
+    git clone https://github.com/yourusername/Bank-Management-System.git
+    ```
 
+2. **Navigate to the project directory:**
 
-Getting Started
+    ```bash
+    cd Bank-Management-System
+    ```
 
-Prerequisites
+3. **Compile the Java files:**
 
-Java Development Kit (JDK)
+    ```bash
+    javac SarimBank.java SarimBankSystem.java
+    ```
 
-A Java IDE or Text Editor
+4. **Run the application:**
 
+    ```bash
+    java SarimBankSystem
+    ```
 
-Installation
+## Usage
 
-1. Clone the repository:
+Follow the on-screen prompts to manage bank accounts. You can:
+- Add a new account.
+- Deposit funds into an existing account.
+- Transfer funds between accounts.
+- View account details.
 
-git clone https://github.com/yourusername/Bank-Management-System.git
-
-
-2. Navigate to the project directory:
-
-cd Bank-Management-System
-
-
-3. Compile the Java files:
-
-javac *.java
-
-
-4. Run the application:
-
-java Main
-
-
-
-Usage
-
-Just follow the on-screen prompts to create an account, manage funds, and check your balance.
-
-Contributing
+## Contributing
 
 I welcome any suggestions or improvements! Feel free to open an issue or submit a pull request.
 
-Acknowledgments
+## Acknowledgments
 
-Thanks for checking out my project! Inspired by basic banking systems to enhance my Java skills.
-
-
----
-
-Replace URL-to-your-image with the actual URL of your image. If you need help finding or uploading an image, let me know!
-
+Thanks for checking out my project! This Bank Management System is designed to enhance my Java skills and provide a foundational banking simulation.
